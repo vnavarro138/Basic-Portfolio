@@ -1,0 +1,11 @@
+/* this makes entire webpage background gray*/
+
+ .container {
+    width: 780px;
+    background: #ffffff;
+    margin: 0 auto;
+}
+
+body {
+    background-color: #ffffff;
+}
